@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    padding: 15px 0;
+
+}
+
+body{
+    background-image: linear-gradient(
+  90deg,
+  hsl(131deg 100% 35%) 0%,
+  hsl(142deg 100% 44%) 40%,
+  hsl(153deg 99% 54%) 57%,
+  hsl(164deg 99% 63%) 67%,
+  hsl(174deg 99% 73%) 78%,
+  hsl(185deg 98% 82%) 100%
+);
+}
+.star-rating{
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.stars{
+    list-style: none;
+    width: 400px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.star{
+    font-size: 3.5rem;
+    padding: 12px 12px;
+    color:white;
+}
+
+.output{
+    text-align: center;
+    margin: 20px;
+    width: 400px;
+    height: 100px;
+    background-color: rgb(35, 197, 59);
+    border: 2px solid black;
+    border-radius: 25px;
+    font-size: 1.7rem;
+}
+
+.btn {
+    background: #aad934;
+    background-image: -webkit-linear-gradient(top, #aad934, #54f063);
+    background-image: -moz-linear-gradient(top, #aad934, #54f063);
+    background-image: -ms-linear-gradient(top, #aad934, #54f063);
+    background-image: -o-linear-gradient(top, #aad934, #54f063);
+    background-image: linear-gradient(to bottom, #aad934, #54f063);
+    -webkit-border-radius: 20;
+    -moz-border-radius: 20;
+    border-radius: 20px;
+    font-family: Arial;
+    color: #050801;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #14a316;
+    background-image: -webkit-linear-gradient(top, #14a316, #38eb44);
+    background-image: -moz-linear-gradient(top, #14a316, #38eb44);
+    background-image: -ms-linear-gradient(top, #14a316, #38eb44);
+    background-image: -o-linear-gradient(top, #14a316, #38eb44);
+    background-image: linear-gradient(to bottom, #14a316, #38eb44);
+    text-decoration: none;
+  }
+
+  .orange{
+    color: orange;
+  }
+
+  .yellow{
+    color:yellow;
+  }
+  
+  .white{
+    color:white;
+  }
