@@ -1,6 +1,7 @@
 <h1 align=center> 🥳🌟Hacktoberfest 2022🌟🥳</h1>
-
- ### Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2022 challenge and earn a limited edition T-shirt.
+<img src="https://uno-website-assets.s3.amazonaws.com/wp-content/uploads/2022/09/28094927/Uno_HackFest22_Hero_V1-1024x395.jpg" alt="Amazing Hacktoberfest 2022">
+  
+## <center> 🌟Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2022 challenge and earn a limited edition T-shirt 🌟 </center>
 #### <br> 📢 Register Yourself for Hacktoberfest and make four quality contribution pull requests (PRs) between October 1st-31st to grab free SWAGS! 🔥
 
 ## What's in it for you? 🤔
